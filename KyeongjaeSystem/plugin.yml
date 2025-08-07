@@ -1,0 +1,8 @@
+name: KyeongjaeSystem
+main: me.yourname.kyeongjae.KyeongjaeSystem
+version: 1.0
+api-version: 1.16
+commands:
+  경재:
+    description: 거래 시장을 엽니다
+    usage: /<command>
