@@ -1,8 +1,11 @@
 name: KyeongjaeSystem
 main: me.yourname.kyeongjae.KyeongjaeSystem
 version: 1.0
-api-version: 1.16
+api-version: 1.21
 commands:
   경재:
     description: 거래 시장을 엽니다
     usage: /<command>
+  가격:
+    description: 아이템 가격 설정
+    usage: /<command> [다이아 수]
